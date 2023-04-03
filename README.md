@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **ELisp, PHP, TypeScript**
+- 💬 Ask me about **Emacs Lisp, PHP, TypeScript**
 
 - 📫 How to reach me **adeltby@gmail.com**
 
