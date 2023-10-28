@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a new emacs distribution!
 
-- 🌱 I’m currently learning **Racket**
+- 🌱 I’m currently learning **Lua**
 
 - 💬 Ask me about **Emacs Lisp, Common Lisp, Scheme**
 
