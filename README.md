@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel !</h1>
-<h3 align="center">Experienced System Architect | Emacs Devotee</h3>
+<h3 align="center">Senior SWE | DevOps</h3>
 
 - 🔭 I’m currently working on MinoMacs (Minotaur Emacs) !
 
