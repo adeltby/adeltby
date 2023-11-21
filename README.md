@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adel !</h1>
-<h3 align="center">Experienced Developer | DevOps</h3>
+<h3 align="center">Experienced System Architect | Emacs Devotee</h3>
 
-- 🔭 I’m currently working on a new emacs distribution!
+- 🔭 I’m currently working on MinoMacs (Minotaur Emacs) !
 
 - 🌱 I’m currently learning **Lua**
 
