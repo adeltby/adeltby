@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AWS CDK, Azure, Google Cloud, Oracle Cloud**
 
-- 📫 How to reach me **adeltayyebi@protonmail.com**
+- 📫 How to reach me **adeltayyebi@protonmail.ch**
 
 - ⚡ Fun fact: **I'm a Liverpool fan!**
 
