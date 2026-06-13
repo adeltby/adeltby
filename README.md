@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adel!</h1>
-<h3 align="center">SRE & Platform Engineering Lead</h3>
+<h3 align="center">Senior Cloud Security & Platform Engineer</h3>
 
 - 🔭 I’m currently working on optimising IaC!
 
